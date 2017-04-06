@@ -9,5 +9,6 @@
   "dependencies": {
       "i18n": "^0.8.3"
   },
-  "author": "Trent Schafer"
+  "author": "Trent Schafer",
+  "license": "Unlicense"
 }
