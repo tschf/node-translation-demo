@@ -1,0 +1,13 @@
+{
+  "name": "node-translation-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "dependencies": {
+      "i18n": "^0.8.3"
+  },
+  "author": "Trent Schafer"
+}
