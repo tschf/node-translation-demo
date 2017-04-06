@@ -26,3 +26,11 @@ Greeting in en is Hello
 Greeting in en-AU is G'day
 Greeting in fr is Bonjour
 ```
+
+## Author
+
+Trent Schafer
+
+## License
+
+The Unlicense
